@@ -1,0 +1,20 @@
+{
+    "slides": [
+        {
+            "url": "src/assets/images/carousel/slide01.webp",
+            "title": "Carousel"
+        },
+        {
+            "url": "src/assets/images/carousel/slide02.webp",
+            "title": "Carousel"
+        },
+        {
+            "url": "src/assets/images/carousel/slide03.webp",
+            "title": "Carousel"
+        },
+        {
+            "url": "src/assets/images/carousel/slide04.webp",
+            "title": "Carousel"
+        }
+    ]
+}
